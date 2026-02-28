@@ -1,8 +1,11 @@
 # Habit Tracker - Production-Grade Android Application
 
-[![Build Status](https://github.com/clusterloggs/HabitTracker/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/clusterloggs/HabitTracker/actions)
+[![Build Status](https://github.com/clusterloggs/habit-tracker.apk/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/clusterloggs/habit-tracker.apk/actions)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1.0-blue.svg)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Compose-2024.12.01-green.svg)](https://developer.android.com/jetpack/compose)
+[![Android](https://img.shields.io/badge/Android-35-brightgreen.svg)](https://www.android.com/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Architecture](https://img.shields.io/badge/Architecture-Clean-orange.svg)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 A fully-featured native Android habit tracking application built with modern Android development practices, clean architecture, and a production-ready tech stack.
 
