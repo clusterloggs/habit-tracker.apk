@@ -90,7 +90,7 @@ The project follows **Clean Architecture** with strict separation of concerns:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd projectAPK
+   cd habit-tracker.apk
    ```
 
 2. **Build the project**
@@ -234,17 +234,7 @@ This project follows Android best practices and clean architecture principles:
    - Architecture design review
    - No security vulnerabilities
 
-## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### What This Means
-- ✅ Free to use, modify, and distribute
-- ✅ Can be used for commercial purposes
-- ✅ No restrictions on derivative works
-- ✅ Must include original license and copyright notice
-
-This permissive license makes the project ideal for learning, contributions, and building upon for your own projects.
 
 ## Support
 
