@@ -1,7 +1,6 @@
 # Habit Tracker - Production-Grade Android Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/[username]/HabitTracker/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/[username]/HabitTracker/actions)
+[![Build Status](https://github.com/clusterloggs/HabitTracker/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/clusterloggs/HabitTracker/actions)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1.0-blue.svg)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Compose-2024.12.01-green.svg)](https://developer.android.com/jetpack/compose)
 
