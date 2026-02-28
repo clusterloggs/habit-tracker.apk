@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Include all app data by default -->
+    <include domain="root" path="." />
+    <!-- Exclude encrypted DataStore - it will be lost on restore but can be recreated -->
+    <exclude domain="root" path="datastore" />
+</full-backup-content>
